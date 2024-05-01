@@ -1,0 +1,9 @@
+date: 2019-03-21T00:00:00.000Z
+VoucherID: 190000468462
+AccountingSoftwareID: 18010001
+AccountingEntry:
+  debit:
+    - AccountTitle: 银行存款-交通银行
+      amount: 2.25
+    - AccountTitle: 财务费用-利息费用
+      amount: -2.25

@@ -1,0 +1,10 @@
+CodeID:
+VoucherType: 利息回单
+code:
+  path: ./AEC.1.js
+  hash:
+map:
+- AVRitem: amount
+  AERitem: 
+- AVRitem:
+  AERitem:
