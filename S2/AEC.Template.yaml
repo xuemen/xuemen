@@ -1,0 +1,12 @@
+CodeID:
+VoucherType: 利息回单
+code:
+  path:
+  hash:
+map:
+- AVRitem: amount
+  AERitem: 
+- AVRitem:
+  AERitem:
+
+AVR字段和AER字段映射

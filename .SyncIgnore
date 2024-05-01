@@ -1,0 +1,23 @@
+# .SyncIgnore is a UTF-8 encoded .txt file that helps you specify single files, paths and rules 
+# for ignoring during the synchronization job. It supports â€˜?â€™ and â€˜*â€˜ wildcard symbols.
+#
+# Note that .SyncIgnore is applied only to the folder where it is contained and 
+# will not work with the files that have already been synced.
+#
+# If you add indexed files to .SyncIgnore, they will be deleted on other syncing devices. 
+# In order to avoid this:
+# 1. Quit BitTorrent Sync or remove the folder from sync on all the devices.
+# 2. Modify .SyncIgnore file on all of them so that it contains same info.
+# 3. Run BitTorrent Sync or re-add the modified folders.
+#
+#
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+desktop.ini
+Thumbs.db
