@@ -1,0 +1,12 @@
+date: 
+VoucherID: 
+AccountingSoftwareID: 
+AccountingEntry: 
+  - debit: 
+    - AccountTitle: 
+      amount: 
+    credit: 
+    - AccountTitle: 
+      amount: 
+    - AccountTitle: 
+      amount: 
